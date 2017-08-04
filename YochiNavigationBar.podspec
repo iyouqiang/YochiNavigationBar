@@ -40,7 +40,7 @@ YochiNavigationBar是一个快速适配导航栏的工具
   #
 
   s.license        = "MIT"
-  # s.license      = { :type => "MIT", :file => "LICENSE" }
+  s.license      = { :type => "MIT", :file => "LICENSE" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -54,9 +54,9 @@ YochiNavigationBar是一个快速适配导航栏的工具
   #
 
   s.author               = { "iyouqiang" => "iyouqiang@icloud.com" }
-  # Or just: s.author    = "iyouqiang"
-  # s.authors            = { "iyouqiang" => "iyouqiang@icloud.com" }
-  # s.social_media_url   = "http://www.jianshu.com/u/1069cf283571"
+#  Or just: s.author    = "iyouqiang"
+  s.authors            = { "iyouqiang" => "iyouqiang@icloud.com" }
+  s.social_media_url   = "http://www.jianshu.com/u/1069cf283571"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -64,8 +64,8 @@ YochiNavigationBar是一个快速适配导航栏的工具
   #  the deployment target. You can optionally include the target after the platform.
   #
 
-  # s.platform     = :ios
-  # s.platform     = :ios, "8.0"
+  #s.platform     = :ios
+  s.platform     = :ios, "8.0"
 
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -87,7 +87,6 @@ YochiNavigationBar是一个快速适配导航栏的工具
 
   s.source_files  = "YochiNavigationBar/*.{h,m}"
 
-  # s.public_header_files = "Classes/**/*.h"
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -97,7 +96,6 @@ YochiNavigationBar是一个快速适配导航栏的工具
   #  non-essential files like tests, examples and documentation.
   #
 
-  # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
 
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -106,10 +104,7 @@ YochiNavigationBar是一个快速适配导航栏的工具
   #  the lib prefix of their name.
   #
 
-  # s.framework  = "UIKit"
-
-  # s.library   = "iconv"
-  # s.libraries = "iconv", "xml2"
+  s.framework  = "UIKit"
 
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -118,9 +113,6 @@ YochiNavigationBar是一个快速适配导航栏的工具
   #  where they will only apply to your library. If you depend on other Podspecs
   #  you can include multiple dependencies to ensure it works.
 
-  # s.requires_arc = true
-
-  # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
-  # s.dependency "JSONKit", "~> 1.4"
+  s.requires_arc = true
 
 end
