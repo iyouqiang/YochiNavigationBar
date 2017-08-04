@@ -1,6 +1,6 @@
 //
-//  YochiNavigationProjectTests.m
-//  YochiNavigationProjectTests
+//  YochiNavigationBarTests.m
+//  YochiNavigationBarTests
 //
 //  Created by Yochi·Kung on 2017/8/3.
 //  Copyright © 2017年 gongyouqiang. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface YochiNavigationProjectTests : XCTestCase
+@interface YochiNavigationBarTests : XCTestCase
 
 @end
 
-@implementation YochiNavigationProjectTests
+@implementation YochiNavigationBarTests
 
 - (void)setUp {
     [super setUp];

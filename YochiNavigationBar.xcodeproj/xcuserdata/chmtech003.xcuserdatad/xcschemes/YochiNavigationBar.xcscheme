@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B7B76F061F332B50001959D4"
-               BuildableName = "YochiNavigationProject.app"
-               BlueprintName = "YochiNavigationProject"
-               ReferencedContainer = "container:YochiNavigationProject.xcodeproj">
+               BlueprintIdentifier = "B7B76F501F333995001959D4"
+               BuildableName = "YochiNavigationBar.app"
+               BlueprintName = "YochiNavigationBar"
+               ReferencedContainer = "container:YochiNavigationBar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,20 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B7B76F1F1F332B50001959D4"
-               BuildableName = "YochiNavigationProjectTests.xctest"
-               BlueprintName = "YochiNavigationProjectTests"
-               ReferencedContainer = "container:YochiNavigationProject.xcodeproj">
+               BlueprintIdentifier = "B7B76F691F333995001959D4"
+               BuildableName = "YochiNavigationBarTests.xctest"
+               BlueprintName = "YochiNavigationBarTests"
+               ReferencedContainer = "container:YochiNavigationBar.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B7B76F061F332B50001959D4"
-            BuildableName = "YochiNavigationProject.app"
-            BlueprintName = "YochiNavigationProject"
-            ReferencedContainer = "container:YochiNavigationProject.xcodeproj">
+            BlueprintIdentifier = "B7B76F501F333995001959D4"
+            BuildableName = "YochiNavigationBar.app"
+            BlueprintName = "YochiNavigationBar"
+            ReferencedContainer = "container:YochiNavigationBar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -65,10 +65,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B7B76F061F332B50001959D4"
-            BuildableName = "YochiNavigationProject.app"
-            BlueprintName = "YochiNavigationProject"
-            ReferencedContainer = "container:YochiNavigationProject.xcodeproj">
+            BlueprintIdentifier = "B7B76F501F333995001959D4"
+            BuildableName = "YochiNavigationBar.app"
+            BlueprintName = "YochiNavigationBar"
+            ReferencedContainer = "container:YochiNavigationBar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -84,10 +84,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B7B76F061F332B50001959D4"
-            BuildableName = "YochiNavigationProject.app"
-            BlueprintName = "YochiNavigationProject"
-            ReferencedContainer = "container:YochiNavigationProject.xcodeproj">
+            BlueprintIdentifier = "B7B76F501F333995001959D4"
+            BuildableName = "YochiNavigationBar.app"
+            BlueprintName = "YochiNavigationBar"
+            ReferencedContainer = "container:YochiNavigationBar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>YochiNavigationProject.xcscheme</key>
+		<key>YochiNavigationBar.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>B7B76F061F332B50001959D4</key>
+		<key>B7B76F501F333995001959D4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>B7B76F1F1F332B50001959D4</key>
+		<key>B7B76F691F333995001959D4</key>
 		<dict>
 			<key>primary</key>
 			<true/>

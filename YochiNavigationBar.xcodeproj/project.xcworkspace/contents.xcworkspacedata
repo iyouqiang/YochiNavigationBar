@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:YochiNavigationProject.xcodeproj">
+      location = "self:YochiNavigationBar.xcodeproj">
    </FileRef>
 </Workspace>
